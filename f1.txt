@@ -1,0 +1,1 @@
+F1 score of the model is 0.9839645279081898
