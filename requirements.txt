@@ -5,5 +5,5 @@ numpy==1.22.3
 opencv_python==4.5.5.62
 scikit_learn==1.0.2
 seaborn==0.11.2
-tensorflow-cpu==2.8.0
+tensorflow-cpu
 Werkzeug==2.1.1
